@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhontriboyke&label=Profile%20views&color=0e75b6&style=flat" alt="jhontriboyke" /> </p>
 
-- 🔭 I’m currently working on https://github.com/jhontriboyke/saving-orangutan
-
 - 🌱 I’m currently learning **React, MERN stack**
 
 - 📫 How to reach me **jhontriboyke@gmail.com**
